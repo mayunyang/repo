@@ -3,4 +3,6 @@ git is a free software
 add three lines
 hello
 你好,你好，你好
+修改bug001
+模拟bug修改，但存在分支未提交
 

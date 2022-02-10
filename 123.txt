@@ -2,5 +2,5 @@ welcome to git
 git is a free software
 add three lines
 hello
-你好
+你好,你好
 
